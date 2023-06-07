@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Ali Haidar<br>👀 I’m interested in javascript and Front-end<br>🌱 I’m currently learning node and react</p>
+<p align="left">👋 Hi, I’m Ali Haidar<br>👀 I’m interested in React.js, Node.js and Front-end stacks<br>🌱 I’m currently learning node and react</p>
 
 ###
 
